@@ -1,6 +1,5 @@
 # allstateprediction
-Policy combination prediction and cost prediction
-
+Predicting policy combination to be quoted to customer and its cost based on customer's characterstics and transaction history 
 This document contains instructions in two sets:
 1. for data preprocessing 
 2. for predictive modeling 
